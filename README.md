@@ -1,4 +1,4 @@
-![logo](https://pouch.jumpshare.com/preview/jwGsgBtLuSNeMMiigy-u_7izk0nNQR-FP7IXP_7lK5uMXUpVB31Po9HyFSgyssPNc1JZ2-KpFNieD8_RMoeXq0d9x-a957EPJDVA-Ep9hlI)
+
 <h1 align="center">Hi 👋, I'm Mayank Raj</h1>
 <h3 align="center">First Year Student at I.I.T KANPUR</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
