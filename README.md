@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mayankr1508@gmail.com**
 
-- ⚡ Fun fact **I think I am mischevious.**
+- ⚡ Fun fact **I am fueled by passion, driven by curiousity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
