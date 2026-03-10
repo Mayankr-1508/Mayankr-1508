@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Mayank Raj</h1>
-<h3 align="center">First Year Student at I.I.T KANPUR</h3>
+<h3 align="center">Second Year Student at I.I.T KANPUR</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankr-1508&label=Profile%20views&color=0e75b6&style=flat" alt="mayankr-1508" /> </p>
 
 - 🌱 
-I am currently a freshman at IIT Kanpur, pursuing a B.Tech in Civil Engineering. I am a passionate coding enthusiast with a keen interest in competative programming,devlopment,A.I. and M.L..**
+I am currently a freshman at IIT Kanpur, pursuing a B.Tech in Aerospace Engineering. I am a passionate coding enthusiast with a keen interest in competative programming,devlopment,A.I. and M.L..**
 
 - 📫 How to reach me **mayankr1508@gmail.com**
 
