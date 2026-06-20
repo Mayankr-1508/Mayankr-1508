@@ -4,7 +4,7 @@
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankr-1508&label=Profile%20views&color=0e75b6&style=flat" alt="mayankr-1508" /> </p>
 
-I am currently a Junior Undergraduate at IIT Kanpur, pursuing a B.Tech in Aerospace Engineering. I am a passionate coding enthusiast with a keen interest in competative programming,devlopment,A.I. and M.L.
+I am currently a Junior Undergraduate at IIT Kanpur, pursuing a B.Tech in Aerospace Engineering. I am a passionate coding enthusiast with a keen interest in competitive programming,devlopment,A.I. and M.L.
 
 - Reach me at  **mayankr1508@gmail.com**
 
