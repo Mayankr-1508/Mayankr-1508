@@ -6,9 +6,9 @@
 
 I am currently a Junior Undergraduate at IIT Kanpur, pursuing a B.Tech in Aerospace Engineering. I am a passionate coding enthusiast with a keen interest in competative programming,devlopment,A.I. and M.L.
 
-- Reach me at **mayankr1508@gmail.com**
+- Reach me at  **mayankr1508@gmail.com**
 
-- ⚡ Fun fact **I am fueled by passion, driven by curiousity**
+- ⚡ Fun fact : **I am fueled by passion, driven by curiousity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
